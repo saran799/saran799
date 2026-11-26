@@ -1,252 +1,98 @@
-<!-- ===================================================== -->
-<!--                    HERO SECTION                      -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-# SARAN<span style="color:#60A5FA">.</span>
-
-### FULL-STACK DEVELOPER · PRODUCT BUILDER · ASPIRING FOUNDER
-
-**Building ideas into products. Creating technology with purpose.**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Full-Stack+Development;AI+%26+Product+Innovation;From+Ideas+to+Real+Products;Building+My+Startup+Journey" alt="Animated introduction" />
-
-<br/>
-
-<a href="https://github.com/saran799">
-  <img src="https://img.shields.io/badge/GitHub-saran799-181717?style=for-the-badge&logo=github" />
+<div align="center"><img src="assets/profile-photo.jpg" width="170" alt="Saran's profile portrait" />SARAN
+FULL-STACK DEVELOPER · PRODUCT BUILDER · ASPIRING FOUNDER
+Building products that solve real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+products;Building+with+code+and+curiosity;From+developer+to+founder;Learning+by+building+real+solutions" alt="Animated introduction" /><a href="https://github.com/saran799">
+  <img src="https://img.shields.io/badge/GitHub-saran799-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://github.com/saran799?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
----
-
-<!-- ===================================================== -->
-<!--                     ABOUT ME                          -->
-<!-- ===================================================== -->
-
-## 👨‍💻 About Me
-
-Hey! I'm **Saran**, a Computer Science Engineering student, developer, and aspiring entrepreneur.
-
-I'm passionate about building digital products, exploring emerging technologies, and solving real-world problems through software.
-
-My journey so far includes:
-
-- Developing web applications and experimenting with full-stack technologies.
-- Designing user experiences and interfaces using Figma.
-- Freelancing and building solutions for clients.
-- Participating in and winning external industrial hackathons.
-- Exploring AI, automation, and product development.
-
-I'm now shifting my focus towards **building a startup** — identifying meaningful problems, developing solutions, and creating products that people genuinely need.
-
-> I don't just want to build projects. I want to build products that make a difference.
-
----
-
-<!-- ===================================================== -->
-<!--                   WHAT I DO                           -->
-<!-- ===================================================== -->
-
-## 🚀 What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Full-Stack Development
-
-Building responsive web applications and exploring complete product development.
-
-</td>
-<td width="50%">
-
-### 🎨 UI/UX Design
-
-Turning ideas into intuitive interfaces and prototypes using Figma.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 AI & Automation
-
-Experimenting with AI integrations, conversational systems, and workflow automation.
-
-</td>
-<td width="50%">
-
-### 💡 Entrepreneurship
-
-Exploring problems, validating ideas, and turning concepts into products.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================================================== -->
-<!--                   TECH STACK                          -->
-<!-- ===================================================== -->
-
-## 🛠️ Technologies & Tools
-
-### Programming & Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-</p>
-
-### Backend, Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,sqlite,supabase,firebase,vercel,render" />
-</p>
-
-### Design & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,docker,arduino" />
-</p>
-
-### AI & Automation
-
-- Conversational AI integrations
-- ElevenLabs
-- n8n workflow automation
-- AI-powered product experimentation
-
----
-
-<!-- ===================================================== -->
-<!--                  FEATURED PROJECTS                     -->
-<!-- ===================================================== -->
-
-## 🚀 Featured Projects
-
-### 🚌 Kural — Conversational Mobility Assistant
-
-An AI-powered, multilingual public-transport journey assistant designed around Chennai's transit ecosystem.
-
-- Conversational journey assistance in Tamil, English, and Tanglish.
-- Journey planning using Chennai GTFS transit data.
-- Bus, metro, and suburban rail journey information.
-- Voice interaction and automated workflow integration.
-
-**Tech:** Python · FastAPI · SQLite · GTFS · ElevenLabs · n8n
-
-[Transit Engine](https://github.com/saran799/kural-transit-engine) · [Voice Application](https://github.com/saran799/kural-call)
-
----
-
-### 🤝 Thunaiy — Guided Form Assistance
-
-A project exploring how technology can make complex forms and academic processes easier to understand and navigate.
-
-- Guided form-assistance concept.
-- Academic syllabus mapping vision.
-- Mobile-first interface and data-driven form experience.
-
-**Current repository baseline:** React · TypeScript · Vite · Tailwind CSS
-
-[Explore Thunaiy](https://github.com/saran799/Thunaiy)
-
----
-
-### 🏥 SAATHI-OA — Community Healthcare Innovation
-
-A community-centred osteoarthritis screening-support prototype designed around accessible assessment workflows.
-
-- Patient registration and assessment workflows.
-- Guided symptom questionnaires.
-- Movement-assessment interface.
-- Simulated sensor and analysis workflows.
-
-**Tech:** React · TypeScript · Vite · Zustand · Tailwind CSS
-
-*Note: Sensor and AI analysis workflows are currently simulated in this prototype.*
-
-[Explore SAATHI-OA](https://github.com/saran799/SAATHI-OA)
-
----
-
-<!-- ===================================================== -->
-<!--                 EXPERIENCE & AWARDS                   -->
-<!-- ===================================================== -->
-
-## 🏆 Experience & Achievements
-
-- 🥇 Winner at multiple external industrial hackathons.
-- 💻 Freelance development experience working with clients.
-- 🚀 Hands-on experience building and presenting technology solutions.
-- 🤝 Experience collaborating, prototyping, and solving problems under hackathon deadlines.
-
-I believe every project, competition, and client interaction is an opportunity to become a better engineer and entrepreneur.
-
----
-
-<!-- ===================================================== -->
-<!--                 CURRENT FOCUS                          -->
-<!-- ===================================================== -->
-
-## 🎯 What I'm Focused On Now
-
-- Building my startup journey.
-- Improving full-stack engineering skills.
-- Developing useful AI-powered products.
-- Learning product strategy and business development.
-- Building solutions around real-world problems.
-- Connecting with ambitious developers, founders, and innovators.
-
----
-
-<!-- ===================================================== -->
-<!--                 GITHUB STATISTICS                      -->
-<!-- ===================================================== -->
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saran799&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran799&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=saran799&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<!-- ===================================================== -->
-<!--                 CONNECT WITH ME                        -->
-<!-- ===================================================== -->
-
-## 🤝 Let's Connect
-
-I'm always interested in meeting people who enjoy building, experimenting, and creating meaningful technology.
-
-<div align="center">
-
-<a href="https://github.com/saran799">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- Add your LinkedIn and professional email links here when ready -->
-
-<br/><br/>
-
-### THINK · BUILD · EXPERIMENT · INNOVATE
-
-*The journey from developer to founder starts with building.*
-
+  <img src="https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+</a></div>About
+Hey, I'm Saran — a Computer Science Engineering student, full-stack developer, product builder, and aspiring founder.
+
+I enjoy taking ideas from an early concept to a working product. My experience so far includes web development, UI/UX design, freelance client work, and participating in external industrial hackathons, including winning experiences.
+
+I'm now focusing on the next chapter: building a startup, understanding real user problems, and creating products that people genuinely need.
+- 🌐 Building with HTML, CSS, JavaScript and modern web technologies
+- 🎨 Designing and prototyping interfaces with Figma
+- 🧩 Exploring full-stack product development
+- 🤖 Experimenting with AI integrations and workflow automation
+- 🚀 Moving from project-building towards entrepreneurship
+I don't just want to write code. I want to build useful products.
+
+What I'm interested in
+Product engineering	Design & experience	Entrepreneurship
+Full-stack applications	UI/UX and prototyping	Startup building
+APIs and integrations	User-centred design	Problem discovery
+AI-enabled workflows	Product interfaces	Rapid experimentation
+
+
+Technology
+Web: HTML · CSS · JavaScript · TypeScript · React · Vite · Tailwind CSS
+Design: Figma
+Backend & data: Python · FastAPI · Node.js · SQLite
+AI & automation: Conversational AI · ElevenLabs · n8n
+Tools & platforms: Git · GitHub · VS Code · Docker · Render · Vercel
+Exploring: Next.js · Supabase · Firebase · AI product development
+Featured projects
+01 — Kural | Nam Payanam
+A multilingual conversational mobility assistant for Chennai.
+
+Kural is designed to make public-transport journey planning easier through conversational assistance. It uses Chennai GTFS transit data to help people understand routes, stops, schedules and transfers across bus, metro and suburban rail services.
+<img src="assets/kural-project-card.png" width="100%" alt="Kural project overview card" />
+Highlights
+- Tamil, English and Tanglish conversational experience
+- GTFS-based transit information and journey planning
+- Bus, metro and suburban rail journey context
+- Voice assistant and workflow automation integrations
+Technology: Python · FastAPI · SQLite · GTFS · ElevenLabs · n8n
+
+Transit Engine · Voice Application
+02 — Thunaiy
+Guided form assistance and academic syllabus mapping.
+
+Thunaiy explores how digital guidance can make complex forms and academic processes easier to understand and navigate.
+<img src="assets/thunaiy-project-card.png" width="100%" alt="Thunaiy project overview card" />
+Highlights
+- Guided form-assistance experience
+- Academic syllabus-mapping vision
+- Mobile-first, data-driven interface
+Current repository baseline: React · TypeScript · Vite · Tailwind CSS
+
+Explore Thunaiy
+03 — SAATHI-OA
+A community-centred osteoarthritis screening-support prototype.
+
+SAATHI-OA explores accessible assessment workflows for community settings, with a focus on patient registration, symptom questionnaires and movement-assessment experiences.
+<img src="assets/saathi-oa-project-card.png" width="100%" alt="SAATHI-OA project overview card" />
+Highlights
+- Patient registration and assessment workflows
+- Guided symptom questionnaires
+- Movement-assessment interface
+- Simulated sensor and analysis workflows
+Technology: React · TypeScript · Vite · Zustand · Tailwind CSS
+
+Project status: prototype. Sensor collection and AI analysis are simulated and are not clinically validated.
+
+Explore SAATHI-OA
+Experience & achievements
+- 🏆 Participated in and earned wins at 3–4 external industrial hackathons.
+- 💼 Freelanced for clients, gaining experience translating requirements into digital solutions.
+- 🛠️ Built and presented working prototypes under real-world time constraints.
+- 🤝 Collaborated with teams and explored product ideas through hands-on development.
+Current focus
+- Building towards launching a startup
+- Strengthening full-stack engineering skills
+- Validating problems before building solutions
+- Developing useful AI-enabled products
+- Learning product strategy, customer discovery and business development
+GitHub activity
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=saran799&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran799&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" /><img width="75%" src="https://streak-stats.demolab.com?user=saran799&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></div>Let's connect
+I'm interested in connecting with developers, designers, founders and people who enjoy turning meaningful ideas into useful products.
+<div align="center"><a href="https://github.com/saran799">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a><!-- Add your LinkedIn and professional email links here when ready. -->
+
+
+THINK · BUILD · LEARN · LAUNCH
 </div>
