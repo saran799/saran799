@@ -1,144 +1,298 @@
 <div align="center">
-  <img src="assets/profile-photo.jpg" width="170" alt="Saran's profile portrait" />
-  <h1>SARAN</h1>
-  <h3>FULL-STACK DEVELOPER · PRODUCT BUILDER · ASPIRING FOUNDER</h3>
-  <p><strong>Building products that solve real-world problems.</strong></p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+products;Building+with+code+and+curiosity;From+developer+to+founder;Learning+by+building+real+solutions" alt="Animated introduction" />
-  <br/><br/>
-  <a href="https://github.com/saran799">
-    <img src="https://img.shields.io/badge/GitHub-saran799-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/saran799?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  </a>
+<table border="0">
+<tr>
+<td width="35%" align="center" valign="middle">
+<img src="profile-photo.jpg" width="220" alt="Saran's portrait" />
+</td>
+<td width="65%" valign="middle">
+
+# Hey, I'm Saran.
+
+### FULL-STACK DEVELOPER
+### PRODUCT BUILDER · ASPIRING FOUNDER
+
+Building digital products, exploring technology and turning ideas into real-world solutions.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=8B9CFB&width=420&lines=I+build+things+that+matter.;From+ideas+to+working+products.;Currently+building+towards+a+startup." alt="Animated introduction" />
+
+[GitHub](https://github.com/saran799) · [Repositories](https://github.com/saran799?tab=repositories)
+
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+---
 
+## ABOUT ME
+
+I'm a Computer Science Engineering student, full-stack developer and aspiring entrepreneur interested in building products that solve meaningful problems.
+
+My journey includes:
+
+- Developing web applications using HTML, CSS, JavaScript and modern frontend technologies.
+- Designing interfaces and prototypes using Figma.
+- Freelancing and developing solutions for clients.
+- Participating in and winning external industrial hackathons.
+- Exploring AI integrations, automation and product architecture.
+
+**My current direction is entrepreneurship:** moving beyond individual projects to discover real problems, validate ideas and build products people actually need.
 
 ---
 
-## About
+## WHAT I BRING TO THE TABLE
 
-Hey, I'm **Saran** — a Computer Science Engineering student, full-stack developer, product builder, and aspiring founder.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-I enjoy taking ideas from an early concept to a working product. My experience so far includes web development, UI/UX design, freelance client work, and participating in external industrial hackathons, including winning experiences.
+### DEVELOPMENT
 
-I'm now focusing on the next chapter: **building a startup, understanding real user problems, and creating products that people genuinely need.**
+Full-stack web development, frontend engineering, APIs and application architecture.
 
-- 🌐 Building with HTML, CSS, JavaScript and modern web technologies
-- 🎨 Designing and prototyping interfaces with Figma
-- 🧩 Exploring full-stack product development
-- 🤖 Experimenting with AI integrations and workflow automation
-- 🚀 Moving from project-building towards entrepreneurship
+</td>
+<td width="33%" valign="top">
 
-> I don't just want to write code. I want to build useful products.
+### DESIGN
 
----
+UI/UX design, Figma prototyping, interface structure and user experience.
 
-## What I'm interested in
+</td>
+<td width="33%" valign="top">
 
-| Product engineering | Design & experience | Entrepreneurship |
-|:--|:--|:--|
-| Full-stack applications | UI/UX and prototyping | Startup building |
-| APIs and integrations | User-centred design | Problem discovery |
-| AI-enabled workflows | Product interfaces | Rapid experimentation |
+### ENTREPRENEURSHIP
 
-## Technology
+Problem discovery, rapid prototyping, hackathons, client experience and product thinking.
 
-**Web:** HTML · CSS · JavaScript · TypeScript · React · Vite · Tailwind CSS  
-**Design:** Figma  
-**Backend & data:** Python · FastAPI · Node.js · SQLite  
-**AI & automation:** Conversational AI · ElevenLabs · n8n  
-**Tools & platforms:** Git · GitHub · VS Code · Docker · Render · Vercel  
-**Exploring:** Next.js · Supabase · Firebase · AI product development
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured projects
+## TECHNOLOGY TOOLKIT
 
-### 01 — Kural | Nam Payanam
+**Frontend**
 
-**A multilingual conversational mobility assistant for Chennai.**
+HTML · CSS · JavaScript · TypeScript · React · Vite · Tailwind CSS
 
-Kural is designed to make public-transport journey planning easier through conversational assistance. It uses Chennai GTFS transit data to help people understand routes, stops, schedules and transfers across bus, metro and suburban rail services.
+**Backend & Data**
 
-<img src="assets/kural-project-card.png" width="100%" alt="Kural project overview card" />
+Python · FastAPI · Node.js · SQLite
 
-**Highlights**
-- Tamil, English and Tanglish conversational experience
-- GTFS-based transit information and journey planning
-- Bus, metro and suburban rail journey context
-- Voice assistant and workflow automation integrations
+**Design**
 
-**Technology:** Python · FastAPI · SQLite · GTFS · ElevenLabs · n8n
+Figma
 
-[Transit Engine](https://github.com/saran799/kural-transit-engine) · [Voice Application](https://github.com/saran799/kural-call)
+**AI & Automation**
 
----
+Conversational AI · ElevenLabs · n8n
 
-### 02 — Thunaiy
+**Tools & Platforms**
 
-**Guided form assistance and academic syllabus mapping.**
+Git · GitHub · VS Code · Docker · Render · Vercel
 
-Thunaiy explores how digital guidance can make complex forms and academic processes easier to understand and navigate.
-
-<img src="assets/thunaiy-project-card.png" width="100%" alt="Thunaiy project overview card" />
-
-**Highlights**
-- Guided form-assistance experience
-- Academic syllabus-mapping vision
-- Mobile-first, data-driven interface
-
-**Current repository baseline:** React · TypeScript · Vite · Tailwind CSS
-
-[Explore Thunaiy](https://github.com/saran799/Thunaiy)
+**Currently exploring:** Next.js · Supabase · Firebase · AI-powered products.
 
 ---
 
-### 03 — SAATHI-OA
+# SELECTED WORK
 
-**A community-centred osteoarthritis screening-support prototype.**
+A selection of products and prototypes exploring mobility, accessibility and healthcare.
 
-SAATHI-OA explores accessible assessment workflows for community settings, with a focus on patient registration, symptom questionnaires and movement-assessment experiences.
+## 01 / KURAL — NAM PAYAYANAM
 
-<img src="assets/saathi-oa-project-card.png" width="100%" alt="SAATHI-OA project overview card" />
+### Making public transportation easier to navigate.
 
-**Highlights**
-- Patient registration and assessment workflows
-- Guided symptom questionnaires
-- Movement-assessment interface
-- Simulated sensor and analysis workflows
+**The problem**
 
-**Technology:** React · TypeScript · Vite · Zustand · Tailwind CSS
+Understanding public-transport routes, stops, schedules and transfers can be difficult, particularly when travelling across multiple transit systems.
 
-*Project status: prototype. Sensor collection and AI analysis are simulated and are not clinically validated.*
+**The solution**
 
-[Explore SAATHI-OA](https://github.com/saran799/SAATHI-OA)
+Kural is a multilingual conversational mobility assistant designed for Chennai. It uses GTFS transit data to help users explore journeys across buses, metro and suburban rail.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**WHAT IT DOES**
+
+- Conversational journey assistance.
+- Tamil, English and Tanglish support.
+- Transit route and stop information.
+- Journey planning across transit modes.
+- Voice-based assistant experience.
+
+</td>
+<td width="50%" valign="top">
+
+**HOW IT WORKS**
+
+1. User asks for a journey.
+2. Kural processes the request.
+3. Transit engine searches GTFS data.
+4. Journey information is prepared.
+5. Conversational assistant responds.
+
+</td>
+</tr>
+</table>
+
+**TECHNOLOGY**
+
+`Python` `FastAPI` `SQLite` `GTFS` `ElevenLabs` `n8n`
+
+**EXPLORE THE PROJECT**
+
+[Transit Engine →](https://github.com/saran799/kural-transit-engine)
+
+[Voice Application →](https://github.com/saran799/kural-call)
 
 ---
 
-## Experience & achievements
+## 02 / THUNAIY
 
-- 🏆 Participated in and earned wins at **3–4 external industrial hackathons**.
-- 💼 Freelanced for clients, gaining experience translating requirements into digital solutions.
-- 🛠️ Built and presented working prototypes under real-world time constraints.
-- 🤝 Collaborated with teams and explored product ideas through hands-on development.
+### Making complex forms easier to understand and complete.
 
-## Current focus
+**The problem**
 
-- Building towards launching a startup
-- Strengthening full-stack engineering skills
-- Validating problems before building solutions
-- Developing useful AI-enabled products
-- Learning product strategy, customer discovery and business development
+People can struggle to understand complex forms and navigate academic information.
 
-## GitHub activity
+**The solution**
+
+Thunaiy explores a guided form-assistance experience, alongside a vision for academic syllabus mapping.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CORE EXPERIENCE**
+
+- Guided form assistance.
+- Structured form navigation.
+- Academic syllabus mapping vision.
+- Mobile-first interface.
+- Data-driven form presentation.
+
+</td>
+<td width="50%" valign="top">
+
+**CURRENT IMPLEMENTATION**
+
+The existing repository provides a frontend baseline with a data-driven form viewer and mock data.
+
+The current baseline does not yet include production backend, AI, authentication or OCR functionality.
+
+</td>
+</tr>
+</table>
+
+**TECHNOLOGY**
+
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+[Explore Thunaiy →](https://github.com/saran799/Thunaiy)
+
+---
+
+## 03 / SAATHI-OA
+
+### Exploring accessible osteoarthritis screening-support workflows.
+
+**The problem**
+
+Community-oriented assessment workflows need to be understandable and accessible to the people carrying them out.
+
+**The solution**
+
+SAATHI-OA is a prototype exploring community-centred osteoarthritis assessment-support workflows.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CORE EXPERIENCE**
+
+- Patient registration.
+- Guided symptom questionnaires.
+- Movement-assessment interface.
+- Patient reports and guidance.
+- Sensor and analysis workflow simulation.
+
+</td>
+<td width="50%" valign="top">
+
+**PROTOTYPE STATUS**
+
+The current prototype uses simulated sensor data and analysis workflows.
+
+Its assessment logic is not clinically validated and should not be treated as a medical diagnostic system.
+
+</td>
+</tr>
+</table>
+
+**TECHNOLOGY**
+
+`React` `TypeScript` `Vite` `Zustand` `Tailwind CSS`
+
+[Explore SAATHI-OA →](https://github.com/saran799/SAATHI-OA)
+
+---
+
+## EXPERIENCE & RECOGNITION
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### HACKATHONS
+
+Participated in and earned wins at 3–4 external industrial hackathons.
+
+Hands-on experience with rapid prototyping, technical problem-solving and presenting solutions.
+
+</td>
+<td width="50%" valign="top">
+
+### FREELANCING
+
+Worked with clients to develop digital solutions.
+
+Experience translating requirements into practical development work.
+
+</td>
+</tr>
+</table>
+
+---
+
+## CURRENT CHAPTER
+
+### From developer to founder.
+
+My focus is shifting towards building a startup.
+
+- Discovering real-world problems worth solving.
+- Understanding users and validating ideas.
+- Building products with full-stack technologies.
+- Exploring AI-powered product experiences.
+- Learning product strategy and business development.
+
+I want to build more than impressive demos. I want to create useful products that can grow into sustainable businesses.
+
+---
+
+## GITHUB ACTIVITY
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saran799&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran799&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saran799&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran799&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+
+<br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=saran799&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
@@ -146,20 +300,18 @@ SAATHI-OA explores accessible assessment workflows for community settings, with 
 
 ---
 
-## Let's connect
+## LET'S CONNECT
 
-I'm interested in connecting with developers, designers, founders and people who enjoy turning meaningful ideas into useful products.
+I'm interested in meeting developers, designers, founders and innovators who enjoy turning ideas into useful products.
 
 <div align="center">
 
-<a href="https://github.com/saran799">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-saran799-181717?style=for-the-badge&logo=github)](https://github.com/saran799)
 
-<!-- Add your LinkedIn and professional email links here when ready. -->
+<!-- Add your LinkedIn and professional email here -->
 
-<br/><br/>
+<br/>
 
-**THINK · BUILD · LEARN · LAUNCH**
+**BUILD WITH PURPOSE. CREATE WITH IMPACT.**
 
 </div>
