@@ -6,16 +6,16 @@
 </td>
 <td width="65%" valign="middle">
 
-# Hey, I'm Saran.
+<h1>Hey, I'm Saran.</h1>
 
-### FULL-STACK DEVELOPER
-### PRODUCT BUILDER · ASPIRING FOUNDER
+<h3>FULL-STACK DEVELOPER</h3>
+<h3>PRODUCT BUILDER · ASPIRING FOUNDER</h3>
 
 Building digital products, exploring technology and turning ideas into real-world solutions.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=8B9CFB&width=420&lines=I+build+things+that+matter.;From+ideas+to+working+products.;Currently+building+towards+a+startup." alt="Animated introduction" />
 
-[GitHub](https://github.com/saran799) · [Repositories](https://github.com/saran799?tab=repositories)
+<a href="https://github.com/saran799">GitHub</a> · <a href="https://github.com/saran799?tab=repositories">Repositories</a>
 
 </td>
 </tr>
@@ -72,23 +72,63 @@ Problem discovery, rapid prototyping, hackathons, client experience and product 
 
 ## TECHNOLOGY TOOLKIT
 
-**Frontend**
+### FRONTEND DEVELOPMENT
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" alt="HTML CSS JavaScript TypeScript React Vite Tailwind CSS" />
+</a>
+</p>
 
 HTML · CSS · JavaScript · TypeScript · React · Vite · Tailwind CSS
 
-**Backend & Data**
+### BACKEND & DATA
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,sqlite&theme=dark" alt="Python Node.js FastAPI SQLite" />
+</a>
+</p>
 
 Python · FastAPI · Node.js · SQLite
 
-**Design**
+### DESIGN
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+</a>
+</p>
 
 Figma
 
-**AI & Automation**
+### AI & AUTOMATION
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="PyTorch TensorFlow" />
+</a>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/ElevenLabs-Voice%20AI-111111?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/GTFS-Transit%20Data-2874A6?style=flat-square" alt="GTFS" />
+</p>
 
 Conversational AI · ElevenLabs · n8n
 
-**Tools & Platforms**
+### TOOLS & PLATFORMS
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel&theme=dark" alt="Git GitHub VS Code Docker Vercel" />
+</a>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+</p>
 
 Git · GitHub · VS Code · Docker · Render · Vercel
 
